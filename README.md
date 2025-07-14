@@ -51,7 +51,7 @@ I can now create intelligent chatbots that understand complex documents and prov
 # Module 6: Create a Translation Assistant
  I learned how to build a real-time voice translator assistant by integrating speech-to-text (STT), large language models like Flan-UL2, and text-to-speech (TTS) using IBM Watson® Speech Libraries. The application converts spoken input into translated speech output, enabling seamless multilingual communication.
  
- # Module 7: 
+ # Module 7
 I learned how to build a personalized AI-powered career coach using large language models (LLMs). The AI assists job seekers by offering resume feedback, job matching insights, and interview preparation guidance through prompt engineering and user input.
 
 Real-World Application
